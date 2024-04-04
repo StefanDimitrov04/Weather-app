@@ -19,3 +19,6 @@ HTML5
 CSS3
 JavaScript (ES6+)
 OpenWeatherMap API
+
+
+![smallWeatherApp](https://github.com/StefanDimitrov04/Weather-app/assets/115184100/7dab4c79-c4da-4f8b-b3c9-32fbb5377a43)
