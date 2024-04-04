@@ -22,3 +22,4 @@ OpenWeatherMap API
 
 
 ![smallWeatherApp](https://github.com/StefanDimitrov04/Weather-app/assets/115184100/7dab4c79-c4da-4f8b-b3c9-32fbb5377a43)
+![weatherApp](https://github.com/StefanDimitrov04/Weather-app/assets/115184100/d14dc7bc-ba5e-4643-8be7-25e7f9515d4b)
